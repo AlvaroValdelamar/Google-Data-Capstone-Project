@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom folder raw data
+src/data/csv files/
+src/data/raw data/
