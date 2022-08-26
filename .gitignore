@@ -131,3 +131,4 @@ dmypy.json
 # Custom folder raw data
 src/data/csv files/
 src/data/raw data/
+src/data/clean data/trips_2021_2022.csv
