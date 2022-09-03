@@ -6,7 +6,7 @@ In the src folder the file 'main_script.ipynb' is a deliverable with all the ste
 
 The analysis can be visualized in the following Tableau link
 
-https://public.tableau.com/app/profile/alvaro.valdelamar/viz/shared/82D5337BG
+https://public.tableau.com/views/Cyclist-capstone-project/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link
 
 The recommendations for Stakeholders are the following:
 
