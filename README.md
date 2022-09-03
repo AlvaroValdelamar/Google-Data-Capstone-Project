@@ -2,7 +2,7 @@
 Capstone project for final project.  
 Data analysis for a bike-share company in order to help them attract more riders. 
 
-In the src foldes the file 'main_script.ipynb' is a deliverable with all the steps carried out for the analysis.
+In the src folder the file 'main_script.ipynb' is a deliverable with all the steps carried out for the analysis.
 
 The analysis can be visualized in the following Tableau link
 
